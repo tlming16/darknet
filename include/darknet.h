@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <pthread.h>
-
+#include <time.h>  // mathm  
 #ifdef GPU
     #define BLOCK 512
 
